@@ -2,7 +2,7 @@
 title:       berchan's blog
 email:       berchan@126.com      
 author:      berchan
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+description: "一名 iOS 开发者"
 baseurl:     "/blog"
 url:         "https://berchan.github.io"
 date_format: "%b %-d, %Y"
@@ -20,7 +20,7 @@ bing_verification:
 animated:             false
 show_related_posts:   false
 show_post_footers:    false
-show_social_icons:    false
+show_social_icons:    true
 ajaxify_contact_form: false
 enable_mathjax: false
 extended_fonts: false
@@ -37,7 +37,7 @@ facebook_appid:
 facebook_comments_number: 10
 
 # Social icons
-github_username:
+github_username: "berchan"
 bitbucket_username:
 stackoverflow_id:
 twitter_username:
@@ -108,5 +108,6 @@ sass:
 gems:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-feed
 # https://github.com/jekyll/jekyll/issues/2938
 exclude: [vendor]
