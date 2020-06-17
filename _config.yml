@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
+title:       berchan's blog
+email:       berchan@126.com      
+author:      berchan
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "http://app.berchan.io"
 date_format: "%b %-d, %Y"
 
 # Google services
@@ -66,8 +66,8 @@ share_hackernews: false
 
 text:
   pagination:
-    newer: 'Newer'
-    older: 'Older'
+    newer: '上一页'
+    older: '下一页'
   share_buttons:
     text:         'Share this post!'
     facebook:     'Share on Facebook'
