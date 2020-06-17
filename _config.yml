@@ -4,7 +4,7 @@ email:       berchan@126.com
 author:      berchan
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
 baseurl:     ""
-url:         "http://app.berchan.io"
+url:         "http://berchan.github.io/blog"
 date_format: "%b %-d, %Y"
 
 # Google services
